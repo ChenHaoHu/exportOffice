@@ -1,0 +1,8 @@
+F:\c#\exportexcel\exportexcel\exportexcel\obj\Debug\exportexcel.csprojResolveAssemblyReference.cache
+F:\c#\exportexcel\exportexcel\exportexcel\obj\Debug\exportexcel.csproj.CoreCompileInputs.cache
+F:\c#\exportexcel\exportexcel\exportexcel\bin\Debug\exportexcel.exe.config
+F:\c#\exportexcel\exportexcel\exportexcel\bin\Debug\exportexcel.exe
+F:\c#\exportexcel\exportexcel\exportexcel\bin\Debug\exportexcel.pdb
+F:\c#\exportexcel\exportexcel\exportexcel\obj\Debug\exportexcel.exe
+F:\c#\exportexcel\exportexcel\exportexcel\obj\Debug\exportexcel.pdb
+F:\c#\exportexcel\exportexcel\exportexcel\obj\Debug\exportexcel.csproj.ResolveComReference.cache
